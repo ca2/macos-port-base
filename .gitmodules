@@ -7,18 +7,12 @@
 [submodule "libmpg123"]
 	path = libmpg123
 	url = ../../cpp-port/libmpg123
-[submodule "libarchive"]
-	path = libarchive
-	url = ../../cpp-port/libarchive
 [submodule "idn"]
 	path = idn
 	url = ../../cpp-port/idn
 [submodule "archive"]
 	path = archive
 	url = ../../cpp-port/archive
-[submodule "mpg123"]
-	path = mpg123
-	url = ../../cpp-port/mpg123
 [submodule "unac"]
 	path = unac
 	url = ../../cpp-port/unac
