@@ -31,10 +31,6 @@
 	path = minizip
 	url = ../../cpp-port/minizip
 	branch = main
-[submodule "zlib"]
-	path = zlib
-	url = ../../cpp-port/zlib
-	branch = main
 [submodule "stb"]
 	path = stb
 	url = ../../cpp-port/stb
@@ -55,7 +51,3 @@
 	path = tinyobjloader
 	url = ../../cpp-port/tiny-tinyobjloader
 	branch = main
-[submodule "glm"]
-	path = glm
-	url = ../../g-truc/glm
-	branch = master
