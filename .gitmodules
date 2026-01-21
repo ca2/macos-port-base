@@ -4,9 +4,9 @@
 [submodule "id3lib"]
 	path = id3lib
 	url = ../../cpp-port/id3lib
-[submodule "libmpg123"]
-	path = libmpg123
-	url = ../../cpp-port/libmpg123
+[submodule "mpg123"]
+	path = mpg123
+	url = ../../cpp-port/mpg123
 [submodule "idn"]
 	path = idn
 	url = ../../cpp-port/idn
